@@ -4,10 +4,10 @@ This project is a task tracking application for the CampusEats team to track and
 
 ## Features
 - Task list management and monitoring
-- Task due dates are now supported
+- Task due date support
 
 ## Recent Updates
-- Fixed the task due date functionality.
+- Fixed task due date functionality and corrected documentation typos.
 
 ## Usage
 Run the task script:
